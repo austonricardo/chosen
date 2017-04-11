@@ -1,9 +1,9 @@
 # Chosen
 
-Add to this fatastic lib the gridify hability.Sorry, only in public for now. Cause i'm a baby in SAS and Coffee :).
+Add to this fatastic lib the gridify content hability.
 
-- jQuery support: 1.4+
-- Prototype support: 1.7+
+
+Sorry, alter in public folder for now. Cause i'm a baby in SAS and Coffee :).
 
 For **documentation**, usage, and examples, see:
 http://harvesthq.github.io/chosen/

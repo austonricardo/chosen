@@ -1,6 +1,6 @@
 # Chosen
 
-Chosen is a library for making long, unwieldy select boxes more user friendly.
+Add to this fatastic lib the gridify hability. Only in public for now. My SAS and Coffe is stanting.
 
 - jQuery support: 1.4+
 - Prototype support: 1.7+

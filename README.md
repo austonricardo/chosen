@@ -1,6 +1,6 @@
 # Chosen
 
-Add to this fatastic lib the gridify hability. Only in public for now. My SAS and Coffe is stanting.
+Add to this fatastic lib the gridify hability.Sorry, only in public for now. Cause i'm a baby in SAS and Coffe :).
 
 - jQuery support: 1.4+
 - Prototype support: 1.7+

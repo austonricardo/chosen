@@ -4,8 +4,11 @@ Add to this fatastic lib the gridify content hability.
 
 
 Sorry, alter in public folder for now. Cause i'm a baby in SAS and Coffee :).
+For test, donwload public folder and open in browser the index.html file.
 
-For **documentation**, usage, and examples, see:
+
+
+For Original **documentation**, usage, and examples, see:
 http://harvesthq.github.io/chosen/
 
 For **downloads**, see:
